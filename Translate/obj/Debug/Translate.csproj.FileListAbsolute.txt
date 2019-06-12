@@ -1,0 +1,13 @@
+C:\Users\SHREYAS\source\repos\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\SHREYAS\source\repos\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\SHREYAS\source\repos\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.csprojAssemblyReference.cache
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.cache
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.pdb
+C:\Users\SHREYAS\source\repos\Translate\Translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHREYAS\source\repos\Translate\Translate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.csproj.CopyComplete
+C:\Users\SHREYAS\source\repos\Translate\Translate\obj\Debug\Translate.Form1.resources
